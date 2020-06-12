@@ -22,9 +22,9 @@ var numero = "19";
 
 // Combino le risposte
 
-var risultato = tuoNome + tuoCognome + colorePreferito + numero;
+var risultato = tuoNome+tuoCognome+colorePreferito+numero;
 
 
 // output per l'utente
 
-document.getElementById('welcome').innerHTML = "Ecco la tua password davvero poco credibile: " + risultato;
+document.getElementById('welcome').innerHTML = "La tua password incredibilmente sicura è: " + risultato;

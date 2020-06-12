@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  width:100%;
+  height:100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#output{
+  width:600px;
+  height:200px;
+  border: 10px groove #80ffdb;
+  background-color: #48bfe3;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+#welcome{
+  text-align: center;
+  padding-top: 10%;
+  color:#663a00;
+  font-weight: lighter;
+
+}
